@@ -1,0 +1,8 @@
+C:\Users\art-m\Desktop\ChromeCookieReader-master\ChromeCookieReader\bin\Debug\ChromeCookieReader.exe.config
+C:\Users\art-m\Desktop\ChromeCookieReader-master\ChromeCookieReader\bin\Debug\ChromeCookieReader.exe
+C:\Users\art-m\Desktop\ChromeCookieReader-master\ChromeCookieReader\bin\Debug\ChromeCookieReader.pdb
+C:\Users\art-m\Desktop\ChromeCookieReader-master\ChromeCookieReader\bin\Debug\System.Data.SQLite.dll
+C:\Users\art-m\Desktop\ChromeCookieReader-master\ChromeCookieReader\bin\Debug\System.Data.SQLite.xml
+C:\Users\art-m\Desktop\ChromeCookieReader-master\ChromeCookieReader\obj\Debug\ChromeCookieReader.csprojResolveAssemblyReference.cache
+C:\Users\art-m\Desktop\ChromeCookieReader-master\ChromeCookieReader\obj\Debug\ChromeCookieReader.exe
+C:\Users\art-m\Desktop\ChromeCookieReader-master\ChromeCookieReader\obj\Debug\ChromeCookieReader.pdb
