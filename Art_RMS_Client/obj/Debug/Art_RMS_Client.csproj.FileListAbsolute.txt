@@ -28,3 +28,10 @@ C:\Users\art-m\Desktop\Art_RMS_Client\Art_RMS_Client\obj\Debug\csrss.pdb
 C:\Users\art-m\Desktop\Art_RMS_Client\Art_RMS_Client\obj\Debug\Art_RMS_Client.Properties.Resources.resources
 C:\Users\art-m\OneDrive\Документы\Visual Studio 2015\Projects\Art_RMS_Client\Art_RMS_Client\obj\Debug\csrss.exe
 C:\Users\art-m\OneDrive\Документы\Visual Studio 2015\Projects\Art_RMS_Client\Art_RMS_Client\obj\Debug\csrss.pdb
+C:\Users\art-m\OneDrive\Документы\Visual Studio 2015\Projects\Art_RMS_Client\Art_RMS_Client\bin\Debug\csrss.exe
+C:\Users\art-m\OneDrive\Документы\Visual Studio 2015\Projects\Art_RMS_Client\Art_RMS_Client\bin\Debug\csrss.pdb
+C:\Users\art-m\OneDrive\Документы\Visual Studio 2015\Projects\Art_RMS_Client\Art_RMS_Client\obj\Debug\Art_RMS_Client.csprojResolveAssemblyReference.cache
+C:\Users\art-m\OneDrive\Документы\Visual Studio 2015\Projects\Art_RMS_Client\Art_RMS_Client\obj\Debug\Art_RMS_Client.Pages.Dialog_Chat.resources
+C:\Users\art-m\OneDrive\Документы\Visual Studio 2015\Projects\Art_RMS_Client\Art_RMS_Client\obj\Debug\Art_RMS_Client.Pages.Freeze_Window.resources
+C:\Users\art-m\OneDrive\Документы\Visual Studio 2015\Projects\Art_RMS_Client\Art_RMS_Client\obj\Debug\Art_RMS_Client.Properties.Resources.resources
+C:\Users\art-m\OneDrive\Документы\Visual Studio 2015\Projects\Art_RMS_Client\Art_RMS_Client\obj\Debug\Art_RMS_Client.csproj.GenerateResource.Cache

