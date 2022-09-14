@@ -18,5 +18,6 @@ ___
 __[Видеодемонстрация работы приложения](https://youtu.be/tlhUKVFrbMk)__
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tlhUKVFrbMk/0.jpg)](https://www.youtube.com/embed/tlhUKVFrbMk)
+
 _Нажми для просмотра_ 👆
 
