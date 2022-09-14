@@ -16,5 +16,7 @@ ___Запуск проекта___
 ___
 
 __[Видеодемонстрация работы приложения](https://youtu.be/tlhUKVFrbMk)__
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tlhUKVFrbMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tlhUKVFrbMk/0.jpg)](https://www.youtube.com/embed/tlhUKVFrbMk)
+_Нажми для просмотра_ 👆
 
